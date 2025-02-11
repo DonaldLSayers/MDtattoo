@@ -17,10 +17,6 @@ content:
      - name: categories
        label: Categories
        type: string
-     - name: metadate
-       type: string
-       hidden: true
-       default: hide
      - name: image
        label: Image
        type: image
